@@ -1,0 +1,72 @@
+.container
+{
+background-color: red;
+border-style:outset;
+display: flex;
+}
+body{
+    background-color:seagreen;
+    background-image: -webkit-image-set("background.jpg");
+    border-radius: initial;
+        border-style: dotted;
+}
+Marquee{
+    color: yellow;
+}
+a{
+    display:flexbox;
+    color:red;
+    background-color:cornflowerblue;
+    float:none;
+    padding: 15px;
+}
+span{
+    background-color: red;
+}
+header{
+    border-style:dashed;
+    border-color: red;
+    background-color: grey;
+}
+p{
+    color:green;
+}
+.image{
+    float: right;
+}
+.details{
+   text-align: center; 
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-weight: 400;
+   font-style: italic;
+}
+
+h2{
+    color: yellowgreen;
+
+}   
+
+.quote1{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: chartreuse;
+    font-style: italic;
+}
+.quote2{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: chartreuse;
+    font-style: italic;
+}
+.quote3{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: chartreuse;
+    font-style: italic;
+}
+.quote4{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: chartreuse;
+    font-style: italic;
+}
